@@ -1,1 +1,2 @@
-It provides Data regarding sales with the help og interactive Dashboards..
+In this ,,,we have dashboards regarding sales ,,hotels bookings cancellation with the help og power bi and ms-excel
+
